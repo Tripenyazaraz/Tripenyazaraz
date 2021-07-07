@@ -2,7 +2,6 @@
 ### Yo dayo ⭐
 
 My gmail - tripenyazaraz@gmail.com
-My website - [___Loading___] 
 
 ------------------------------------------------------------
 ![alt text](https://user-images.githubusercontent.com/55177401/124724030-6ec72780-df2d-11eb-827e-01686a827a87.jpg)
