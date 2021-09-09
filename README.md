@@ -1,6 +1,6 @@
 # Yo dayo ⭐
 ## Projects
-- [Noita](https://github.com/Tripenyazaraz/Noita)
+- [Noita](https://github.com/Tripenyazaraz/Noita) - Cellular automaton.
 
 ## Contacts 
 My gmail - tripenyazaraz@gmail.com
