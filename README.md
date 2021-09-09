@@ -5,7 +5,7 @@ Hi, i'm a backend web developer. I like to make non-trivial projects and reinven
 
 ### 🌀 Projects
 - [Noita](https://github.com/Tripenyazaraz/Noita) - Cellular automaton.
----
+===
 
 ### ☁️ Skills
 - **languages** - Python, Java.
