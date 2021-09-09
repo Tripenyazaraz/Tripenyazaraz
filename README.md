@@ -8,7 +8,7 @@ Hi, i'm a backend web developer. I like to make non-trivial projects and reinven
 
 ### Contacts 
 My gmail - tripenyazaraz@gmail.com
-[<img align="left" alt="linked-in" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"/>](tripenyazaraz@gmail.com)
+[<img align="left" alt="linked-in" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/>](tripenyazaraz@gmail.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%D1%8D%D0%BB%D1%8C%D0%B4%D0%B0%D1%80-%D0%B0%D0%BB%D0%BB%D0%B0%D1%85%D1%8F%D1%80%D0%BE%D0%B2-8ab393201/)
 
 ------------------------------------------------------------
