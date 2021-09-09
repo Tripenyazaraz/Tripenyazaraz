@@ -1,6 +1,6 @@
 # Yo dayo ⭐
 ## Projects
-- [Noita]{https://github.com/Tripenyazaraz/Noita}
+- [Noita](https://github.com/Tripenyazaraz/Noita)
 
 ## Contacts 
 My gmail - tripenyazaraz@gmail.com
