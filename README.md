@@ -5,13 +5,15 @@ Hi, i'm a backend web developer. I like to make non-trivial projects and reinven
 
 ### 🌀 Projects
 - [Noita](https://github.com/Tripenyazaraz/Noita) - Cellular automaton.
-===
+
+____
 
 ### ☁️ Skills
 - **languages** - Python, Java.
 - **Web** - Django, Spring.
 - **Etc** - PostgreSQL, Docker.
 
+____
 
 ### ☂ Contacts 
 - Gmail - tripenyazaraz@gmail.com
