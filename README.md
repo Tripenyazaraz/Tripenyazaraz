@@ -7,9 +7,12 @@ I'm a backend web developer. I like to make non-trivial projects and reinvent th
 
 
 ### ☁️ Skills
-- **languages** - Python, Java.
-- **Web** - Django, Spring.
-- **Etc** - PostgreSQL, Docker.
+- Microservice architecture, gRPC
+- Server side development using Django, FastAPI
+- Databases with PostgreSQL and Mongo.
+- DevOps with Docker.
+- Deferred tasks with Celery.
+- Redis, RabbitMQ.
 
 
 ### ☂ Contacts 
